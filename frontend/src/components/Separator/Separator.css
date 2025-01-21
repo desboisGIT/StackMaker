@@ -1,0 +1,13 @@
+.separator-bar {
+    width: 90%;
+    background-color: #92929293;
+    height: 1px;
+}
+.separator {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2px;
+    margin-bottom: 10px;
+}

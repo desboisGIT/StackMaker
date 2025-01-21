@@ -1,0 +1,16 @@
+.PagePool {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.hidden{
+    display: none;
+}
+
+.topLeft{
+    position: absolute;
+    color: rgb(189, 189, 189);
+    left: 20px;
+}

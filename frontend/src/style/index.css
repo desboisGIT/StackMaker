@@ -1,0 +1,13 @@
+html, body, #root {
+    height: 100%;
+    background-color: #f3f4f6;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    animation: animateBg 14s linear infinite;
+    background-image: linear-gradient(90deg,#fbfffa,#cce4ff,#fbfffa,#cce4ff);
+    background-size: 300% 100%;
+  }
+  @keyframes animateBg {
+    0% { background-position: 0% 0%; }
+    100% { background-position: 100% 0%; }
+  
+}

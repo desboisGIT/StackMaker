@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stack Maker - Create, without the trouble.</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- SEO Metadata -->
+    <meta name="description" content="An optimized StackMaker project with best practices for performance, accessibility, and SEO." />
+    <meta name="keywords" content="An optimized StackMaker project. Web Development, Frontend" />
+    <meta name="author" content="Robin CHAILLOU" />
+    
+    <!-- Open Graph (OG) Metadata for Social Media -->
+    <meta property="og:title" content="StackMaker" />
+    <meta property="og:description" content="An optimized StackMaker project." />
+    <meta property="og:image" content="/og-image.png" />
+    <meta property="og:url" content="https://StackMaker.dev/" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="StackMaker" />
+    <meta name="twitter:description" content="An optimized Stack Builder project." />
+    <meta name="twitter:image" content="/twitter-image.png" />
+    
+    <!-- Performance Optimization -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link 
+      rel="preload" 
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" 
+      as="style" 
+      onload="this.onload=null;this.rel='stylesheet'" 
+    />
+    <noscript>
+      <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    </noscript>
+
+    <!-- Critical CSS (example, should be updated with real critical CSS from your project) -->
+    <style>
+      body {
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f9f9f9;
+        color: #333;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+      #root {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Accessible and Semantic Content -->
+    <div id="root" aria-live="polite" role="main"></div>
+
+    <!-- JavaScript -->
+    <script type="module" src="/src/main.tsx" defer></script>
+
+    <!-- Analytics (if needed) -->
+    <!-- Replace 'G-XXXXXXX' with your Google Analytics tag -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXX');
+    </script> -->
+  </body>
+</html>
