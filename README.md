@@ -1,4 +1,6 @@
-# StackBuilder
+
+
+# ![logo](https://github.com/user-attachments/assets/ee5271c3-cc75-4cfd-9359-c5e0b3e7b491) StackBuilder 
 
 StackBuilder is an interactive project generator that helps developers quickly scaffold full-stack applications with their choice of frontend and backend technologies. This tool allows users to choose technologies such as Django for the backend and React for the frontend, automatically generating a project setup that is ready to go.
 
