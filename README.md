@@ -1,8 +1,8 @@
 
 
-# ![logo](https://github.com/user-attachments/assets/ee5271c3-cc75-4cfd-9359-c5e0b3e7b491) StackBuilder 
+# ![logo](https://github.com/user-attachments/assets/ee5271c3-cc75-4cfd-9359-c5e0b3e7b491) StackMaker 
 
-StackBuilder is an interactive project generator that helps developers quickly scaffold full-stack applications with their choice of frontend and backend technologies. This tool allows users to choose technologies such as Django for the backend and React for the frontend, automatically generating a project setup that is ready to go.
+StackMaker is an interactive project generator that helps developers quickly scaffold full-stack applications with their choice of frontend and backend technologies. This tool allows users to choose technologies such as Django for the backend and React for the frontend, automatically generating a project setup that is ready to go.
 
 ## Features
 
@@ -13,12 +13,12 @@ StackBuilder is an interactive project generator that helps developers quickly s
 
 ## Installation
 
-To get started with StackBuilder, follow these steps:
+To get started with StackMaker, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/stackbuilder.git
-   cd stackbuilder
+   git clone https://github.com/yourusername/StackMaker.git
+   cd StackMaker
    cd frontend
    ```
 
@@ -55,15 +55,15 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contributing
 
-We welcome contributions to improve StackBuilder! If you want to help, please fork the repository and submit a pull request. Make sure to follow the existing code style and write meaningful commit messages.
+We welcome contributions to improve StackMaker! If you want to help, please fork the repository and submit a pull request. Make sure to follow the existing code style and write meaningful commit messages.
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/stackbuilder/issues).
+For any questions or suggestions, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/StackMaker/issues).
 
 ---
 
-*Happy building with StackBuilder!*
+*Happy building with StackMaker!*
 ### Notes:
 - Update `yourusername` in the links with your actual GitHub username.
 - Customize sections like `License` if you're using a different license.
